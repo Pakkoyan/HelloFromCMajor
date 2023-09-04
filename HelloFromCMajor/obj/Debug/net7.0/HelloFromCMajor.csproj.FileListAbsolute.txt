@@ -1,0 +1,15 @@
+/home/Ame/Code/C#/HelloFromCMajor/HelloFromCMajor/bin/Debug/net7.0/HelloFromCMajor
+/home/Ame/Code/C#/HelloFromCMajor/HelloFromCMajor/bin/Debug/net7.0/HelloFromCMajor.deps.json
+/home/Ame/Code/C#/HelloFromCMajor/HelloFromCMajor/bin/Debug/net7.0/HelloFromCMajor.runtimeconfig.json
+/home/Ame/Code/C#/HelloFromCMajor/HelloFromCMajor/bin/Debug/net7.0/HelloFromCMajor.dll
+/home/Ame/Code/C#/HelloFromCMajor/HelloFromCMajor/bin/Debug/net7.0/HelloFromCMajor.pdb
+/home/Ame/Code/C#/HelloFromCMajor/HelloFromCMajor/obj/Debug/net7.0/HelloFromCMajor.csproj.AssemblyReference.cache
+/home/Ame/Code/C#/HelloFromCMajor/HelloFromCMajor/obj/Debug/net7.0/HelloFromCMajor.GeneratedMSBuildEditorConfig.editorconfig
+/home/Ame/Code/C#/HelloFromCMajor/HelloFromCMajor/obj/Debug/net7.0/HelloFromCMajor.AssemblyInfoInputs.cache
+/home/Ame/Code/C#/HelloFromCMajor/HelloFromCMajor/obj/Debug/net7.0/HelloFromCMajor.AssemblyInfo.cs
+/home/Ame/Code/C#/HelloFromCMajor/HelloFromCMajor/obj/Debug/net7.0/HelloFromCMajor.csproj.CoreCompileInputs.cache
+/home/Ame/Code/C#/HelloFromCMajor/HelloFromCMajor/obj/Debug/net7.0/HelloFromCMajor.dll
+/home/Ame/Code/C#/HelloFromCMajor/HelloFromCMajor/obj/Debug/net7.0/refint/HelloFromCMajor.dll
+/home/Ame/Code/C#/HelloFromCMajor/HelloFromCMajor/obj/Debug/net7.0/HelloFromCMajor.pdb
+/home/Ame/Code/C#/HelloFromCMajor/HelloFromCMajor/obj/Debug/net7.0/HelloFromCMajor.genruntimeconfig.cache
+/home/Ame/Code/C#/HelloFromCMajor/HelloFromCMajor/obj/Debug/net7.0/ref/HelloFromCMajor.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FM06z4OhbVzQsKojlywXidIbTizwmb+Z86w26hDyyEdS4YSHi7+QNQscHW1jusaoNnwl0KeRdAcIQohCjR6fvA==",
+  "success": true,
+  "projectFilePath": "/home/Ame/Code/C#/HelloFromCMajor/HelloFromCMajor/HelloFromCMajor.csproj",
+  "expectedPackageFiles": [
+    "/home/Ame/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.10/microsoft.aspnetcore.app.ref.7.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
